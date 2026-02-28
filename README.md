@@ -43,4 +43,4 @@ Your JWT encoding algorithm `APP_JWT_ALGORITHM`
 
 I also added json file
 `"app\utils\openapi.json"`
-
+alembic.ini is not in .gitignore for demonstration purposes
