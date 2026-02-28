@@ -7,17 +7,28 @@
 `alembic upgrade head`
 
 
-##For .env listed below variables need to be added:
+## For .env listed below variables need to be added:
+
 Your web application port `APP_PORT`
+
 Your web application host `APP_HOST`
+
 Your web application reload preference `APP_RELOAD`
+
 Your web application origins `APP_ORIGINS`
+
 Your database user `APP_DB_USER`
+
 Your database password `APP_DB_PASSWORD`
+
 Your database host `APP_DB_HOST`
+
 Your database port `5432`
+
 Your database  name `APP_DB_NAME`
+
 Your JWT secret, that will be used for creating JWT tokens `APP_JWT_SECRET`
+
 Your JWT encoding algorithm `APP_JWT_ALGORITHM`
 
 Project documentation is structured by FastApi itself and can be accesible with
