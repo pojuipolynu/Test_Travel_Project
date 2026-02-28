@@ -31,11 +31,14 @@ Your JWT secret, that will be used for creating JWT tokens `APP_JWT_SECRET`
 
 Your JWT encoding algorithm `APP_JWT_ALGORITHM`
 
-Project documentation is structured by FastApi itself and can be accesible with
-`http://<APP_HOST>:<APP_HOST>/docs/`
+## Project documentation is structured by FastApi itself and can be accesible with
+
+### `http://<APP_HOST>:<APP_HOST>/docs/`
+
 <img width="1805" height="899" alt="image" src="https://github.com/user-attachments/assets/e7d430ca-1085-4a90-80cc-3a287e85423e" />
 
-`http://<APP_HOST>:<APP_HOST>/redoc/`
+### `http://<APP_HOST>:<APP_HOST>/redoc/`
+
 <img width="1918" height="984" alt="image" src="https://github.com/user-attachments/assets/6440d52c-d17f-4e2e-a958-e317ca2a6719" />
 
 I also added json file
